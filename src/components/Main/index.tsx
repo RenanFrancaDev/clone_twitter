@@ -23,8 +23,8 @@ const Main: React.FC = () => {
         </button>
 
         <ProfileInfo>
-          <strong>Guilherme Rodz</strong>
-          <span>612 Tweets</span>
+          <strong>Renan França</strong>
+          <span>712 Tweets</span>
         </ProfileInfo>
       </Header>
 
