@@ -14,7 +14,6 @@ https://clone-twitter-imsnlhnxs-renanfrancadev-gmailcom.vercel.app/
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Noje.js](https://nodejs.org/en)
 
   
 ## Pacotes
